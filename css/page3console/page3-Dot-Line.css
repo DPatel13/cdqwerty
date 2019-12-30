@@ -1,14 +1,14 @@
 .par{
   
 }
-@media only screen and (max-width: 500px)
+/*@media only screen and (max-width: 500px)
 {
 .par 
     {
        display: none;
         
     }
-}
+}*/
 
 #particles-js {
   position: fixed;
