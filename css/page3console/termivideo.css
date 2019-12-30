@@ -1,0 +1,32 @@
+.videot,.imgt{
+width: 300px
+    
+}
+@media only screen and (max-width: 1150px)
+{ 
+  .videot,.imgt{
+width:300px;
+      
+}  
+}
+@media only screen and (max-width: 950px)
+{ 
+  .videot,.imgt{
+width: 200px;
+      
+}  
+}
+@media only screen and (max-width: 700px)
+{ 
+  .videot,.imgt{
+width: 150px;
+      
+}  
+}
+@media only screen and (max-width: 500px)
+{ 
+  .videot,.imgt{
+width: 130px;
+     
+}  
+}
